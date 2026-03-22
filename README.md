@@ -1,2 +1,2 @@
-# Asesor.de.Vida24
+# Privacity
 Politicas de Privacidade de Asesor de Vida 24
